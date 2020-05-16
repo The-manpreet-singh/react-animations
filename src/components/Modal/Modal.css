@@ -14,12 +14,12 @@
 }
 
 .ModalOpen {
-    visibility: visible;
+    /* visibility: visible; */
    animation: openModal 0.4s ease-out forwards ;  
 }
 
 .ModalClosed {
-    visibility: hidden;
+    /* visibility: hidden; */
     animation: closeModal 0.4s ease-out forwards ;
 }
 
