@@ -1,4 +1,4 @@
-# React-animation
+# React-animation- Udemy Project
 
 I created a React-animation app. I'm going to use React, react-group-animation,transitions, html5, css3 .
 
